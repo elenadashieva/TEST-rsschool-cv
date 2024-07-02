@@ -2,16 +2,16 @@
 
 ## Contacts
 
-####   github: elenadashieva
-####   email: dashieva.elena@gmail.com
-####   telegram @elenadashieva
+####    github: elenadashieva
+####    email: dashieva.elena@gmail.com
+####    telegram @elenadashieva
 
 
 ## About me
 
 ## Skills
 
-####   coming soon
+####    coming soon
 
 
 ## Edication
@@ -19,5 +19,5 @@
 
 ## Languages
 
-####   English - A2
-####   Russian - Native
+####    English - A2
+####    Russian - Native
